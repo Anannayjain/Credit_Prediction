@@ -1,0 +1,611 @@
+Name,Location,Kharif Crop,Rabi Crop,Number of Acres,Method1,Method2,Method3,Number of credits / carbon sequestration potential,Yield Increase,Emission reduction,Cost,Project value,Project Start Date,Verification date,Date of credits receival,Additional comments,Source
+Name 1,"Prairie City, US",,Wheat,,Biochar,,,,,,,,31-12-2025,,,,
+,Bolivia,Sugarcane,Potato,,Biochar,,,20,,,,,31-12-2026,,,,
+,US,BuffaloGrass,"Willow,
+Poplar,
+Switchgrass",26646840,Bioenergy Crops,,,"1,16,52,50,000.00",,20.00%,,,31-12-2027,,,The carbon credits potential is reported on annual basis,"Bioenergy Crops and Carbon Sequestration
+https://www.tandfonline.com/doi/abs/10.1080/07352680590910393"
+Sparacia,"Cammarata,Italy",,Wheat,0.09,Monocropping,,,0.873,,,,,31-Dec-28,2016.0,,,https://www.mdpi.com/2073-4395/13/11/2714
+Sparacia,"Cammarata,Italy",,"Wheat,Peas",0.09,Crop rotation,,,0.764,,,,,31-Dec-29,2016.0,,,https://www.mdpi.com/2073-4395/13/11/2714
+"Elora Research Station of the University of Guelph,"," Elora, Ont., Canada",,alfalfa,2.47,Crop rotation,Tillage effects,,17.85,,,,,31-12-2030,,,The cost ,https://www.sciencedirect.com/science/article/pii/S0167198701001623?casa_token=Sikl5aMDFuUAAAAA:KwUKcOWSpWtYhwwSvZZ4IaIL_nSl_NE5E79fkrIna3ebgPmIPbGQcy4X7o2SWg7A1j9MgeblHg#aep-section-id13
+"Elora Research Station of the University of Guelph,"," Elora Research Station of the University of Guelph, Elora, Ont., Canada",corn,corn,2.47,Crop rotation,Tillage effects,,16.85,,,,,31-12-2031,,,,https://www.sciencedirect.com/science/article/pii/S0167198701001623?casa_token=Sikl5aMDFuUAAAAA:KwUKcOWSpWtYhwwSvZZ4IaIL_nSl_NE5E79fkrIna3ebgPmIPbGQcy4X7o2SWg7A1j9MgeblHg#aep-section-id13
+"Elora Research Station of the University of Guelph,"," Elora Research Station of the University of Guelph, Elora, Ont., Canada",corn,alfalfa,2.47,Crop rotation,Tillage effects,,16.22,,,,,31-12-2032,,,,https://www.sciencedirect.com/science/article/pii/S0167198701001623?casa_token=Sikl5aMDFuUAAAAA:KwUKcOWSpWtYhwwSvZZ4IaIL_nSl_NE5E79fkrIna3ebgPmIPbGQcy4X7o2SWg7A1j9MgeblHg#aep-section-id13
+"Elora Research Station of the University of Guelph,"," Elora Research Station of the University of Guelph, Elora, Ont., Canada",soyabean,corn,2.47,Crop rotation,Tillage effects,,16.18,,,,,31-12-2033,,,,https://www.sciencedirect.com/science/article/pii/S0167198701001623?casa_token=Sikl5aMDFuUAAAAA:KwUKcOWSpWtYhwwSvZZ4IaIL_nSl_NE5E79fkrIna3ebgPmIPbGQcy4X7o2SWg7A1j9MgeblHg#aep-section-id13
+"Elora Research Station of the University of Guelph,"," Elora Research Station of the University of Guelph, Elora, Ont., Canada",corn,barley,2.47,Crop rotation,Tillage effects,,15.52,,,,,31-12-2034,,,,https://www.sciencedirect.com/science/article/pii/S0167198701001623?casa_token=Sikl5aMDFuUAAAAA:KwUKcOWSpWtYhwwSvZZ4IaIL_nSl_NE5E79fkrIna3ebgPmIPbGQcy4X7o2SWg7A1j9MgeblHg#aep-section-id13
+Agronomy Research Farm,"Iowa,US", Corn, Corn,0.275,Chisel Tillage ,High Stover,Continuous Corn with 13 t/acre BioChar,2.82,-4.75%,,"$5,307.50",,31-Dec-35,2016.0,,"The original dataset includes soil health, crop biomass, and crop yield data for a 13-year corn stover harvest trial in central Iowa.",https://data.nal.usda.gov/dataset/thirteen-year-stover-harvest-and-tillage-effects-corn-agroecosystem-sustainability-iowa
+Agronomy Research Farm,"Iowa,US","Corn,Soy","Wheat,Rye",0.275,No-Tillage,Moderate Stover,Wheat/CC-Corn-Rye-Soy,3.06,,,$91.75,,31-Dec-36,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 4 t/acre BioChar,-1.9,-3.11%,,"$1,694.50",,31-Dec-37,2016.0,,the methodology 2 column  represents Stover Harvest for all IOWA ,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 13 t/acre BioChar,1.82,1.78%,,"$5,300.00",,31-Dec-38,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Corn-Corn-Alfalfa-Alfalfa,-0.67, ,,$99.75,,31-Dec-39,2016.0,,The costs are in per acre,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Corn-Corn-Alfalfa,1.37, ,,$99.75,,31-Dec-40,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 4 t/acre BioChar,-0.22,-4.31%,,"$1,701.00",,31-Dec-41,2016.0,,,
+Agronomy Research Farm,"Iowa,US","Corn,Soy","Wheat,Rye",0.275,No-Tillage,Moderate Stover,Rye-Soy-Wheat/CC-Corn,-1.81, ,,$91.75,,31-Dec-42,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn with 4 t/acre BioChar,1.78,3.37%,,"$1,707.50",,30-Sep-43,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn,-2.27,0.66%,,$100.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US","Corn,Soy","Wheat,Rye",0.275,No-Tillage,High Stover,Rye-Soy-Wheat/CC-Corn,0.3, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US","Corn,Soy","Wheat,Rye",0.275,No-Tillage,Moderate Stover,Corn-Rye-Soy-Wheat/CC,0.19, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US","Corn,Soy","Wheat,Rye",0.275,No-Tillage,High Stover,Wheat/CC-Corn-Rye-Soy,-1.16, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Alfalfa-Alfalfa-Alfalfa-Corn,-0.6, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn,-1.62,4.83%,,$93.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,Moderate Stover,Continuous Corn,1.41,-5.40%,,$91.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 13 t/acre BioChar,-0.42,8.50%,,"$5,204.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Corn-Alfalfa-Alfalfa-Alfalfa,-1.05,-9.34%,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn,0.75,7.56%,,$107.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,High Stover,Continuous Corn,-0.02,-0.66%,,$96.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US","Corn,Soy","Wheat,Rye",0.275,No-Tillage,High Stover,Corn-Rye-Soy-Wheat/CC,-0.04, ,,$98.00,,2015,2016.0,,"No-Tillage, Moderate Stover, Wheat/CC-Corn-Rye-Soy:
+Tillage: No-till, so no cost.
+Planting: Drilling small grain at $18.5 per acre.
+Fertilizing: Assuming dry bulk fertilizer at $6.75 per acre.
+Stover Removal: 50% removal cost is half of $13 (Hay-mowing) = $6.5 per acre.
+Biochar: No biochar application mentioned.
+Harvesting: Complete harvesting of corn at $60 per acre (assuming corn is the dominant crop).
+Total Cost: $18.5 (Planting) + $6.75 (Fertilizing) + $6.5 (Stover) + $60 (Harvesting) = $91.75 per acre.",
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Alfalfa-Corn-Corn,-1.64, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,High Stover,Continuous Corn,2.39,-6.82%,,$96.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 4 t/acre BioChar,1.27,0.92%,,"$1,694.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Corn-Rye-Soy-Wheat/CC,-1.6, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 13 t/acre BioChar,1.75,-1.59%,,"$5,300.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn with 13 t/acre BioChar,-0.05,1.55%,,"$5,307.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,Moderate Stover,Continuous Corn,0.38,-3.23%,,$91.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn,-0.46,-0.64%,,$107.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn,-2.02,6.12%,,$93.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Alfalfa-Alfalfa-Alfalfa-Corn,0.24, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn with 4 t/acre BioChar,-1.81,-3.80%,,"$1,707.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 4 t/acre BioChar,0.9,-0.46%,,"$1,701.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Corn-Rye-Soy-Wheat/CC,3.45, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn,3.15,-6.28%,,$100.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Wheat/CC-Corn-Rye-Soy,-1.59, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Wheat/CC-Corn-Rye-Soy,-2.01, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 13 t/acre BioChar,5.33,-4.16%,,"$5,204.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Corn-Corn-Alfalfa-Alfalfa,-1.23, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Alfalfa-Corn-Corn,-3, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Corn-Corn-Alfalfa,-0.7, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Corn-Alfalfa-Alfalfa-Alfalfa,-5.68,-10.07%,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Rye-Soy-Wheat/CC-Corn,-0.71, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Rye-Soy-Wheat/CC-Corn,-0.19, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 4 t/acre BioChar,-0.76,6.78%,,"$1,701.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Corn-Rye-Soy-Wheat/CC,1.06, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Rye-Soy-Wheat/CC-Corn,-3.03, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,Moderate Stover,Continuous Corn,0.37,-8.82%,,$91.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn,-1.95,-7.97%,,$100.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Wheat/CC-Corn-Rye-Soy,2.24, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn,-0.29,-9.88%,,$107.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Wheat/CC-Corn-Rye-Soy,0.58, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Corn-Corn-Alfalfa-Alfalfa,0.05, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Alfalfa-Corn-Corn,-2.25, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn with 4 t/acre BioChar,1.5,-7.91%,,"$1,707.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn with 13 t/acre BioChar,-0.87,3.55%,,"$5,307.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Corn-Alfalfa-Alfalfa-Alfalfa,1.23,4.81%,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Corn-Rye-Soy-Wheat/CC,0.56, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 13 t/acre BioChar,-1.78,2.38%,,"$5,204.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Alfalfa-Alfalfa-Alfalfa-Corn,-0.43, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Rye-Soy-Wheat/CC-Corn,-3.17, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Corn-Corn-Alfalfa,2.1, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 13 t/acre BioChar,-1.52,5.11%,,"$5,300.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 4 t/acre BioChar,-2.08,6.88%,,"$1,694.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,High Stover,Continuous Corn,-0.13,1.81%,,$96.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn,-3.52,-3.03%,,$93.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Corn-Corn-Alfalfa-Alfalfa,1.73, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn,-2.19,-2.91%,,$107.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 13 t/acre BioChar,-0.64,-3.32%,,"$5,300.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Corn-Alfalfa-Alfalfa-Alfalfa,-1.9,10.72%,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn,-2.66,-4.24%,,$100.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn with 13 t/acre BioChar,2.29,6.07%,,"$5,307.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,High Stover,Continuous Corn with 4 t/acre BioChar,-1.14,-5.22%,,"$1,707.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Corn-Alfalfa-Alfalfa-Alfalfa-Corn,-2.15, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Corn-Rye-Soy-Wheat/CC,0.42, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Rye-Soy-Wheat/CC-Corn,-0.37, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,High Stover,Continuous Corn,1.11,-2.66%,,$96.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,Moderate Stover,Wheat/CC-Corn-Rye-Soy,-2.28, ,,$91.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 13 t/acre BioChar,0.47,1.16%,,"$5,204.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,No-Tillage,Moderate Stover,Continuous Corn,-0.6,-10.88%,,$91.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Alfalfa-Corn-Corn,0.54, ,,$99.75,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Wheat/CC-Corn-Rye-Soy,1.76, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Rye-Soy-Wheat/CC-Corn,-2.18, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Moderate Stover,Continuous Corn with 4 t/acre BioChar,-2.38,-3.83%,,"$1,701.00",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn with 4 t/acre BioChar,-1.27,3.34%,,"$1,694.50",,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Corn,0.275,Chisel,Zero Stover,Continuous Corn,-2.13,4.55%,,$93.50,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Cover Crop,,0.275,No-Tillage,High Stover,Corn-Rye-Soy-Wheat/CC,2.49, ,,$98.00,,2015,2016.0,,,
+Agronomy Research Farm,"Iowa,US",Corn,Alfalfa,0.275,No-Tillage,High Stover,Alfalfa-Alfalfa-Corn-Corn-Alfalfa,-0.63, ,,$99.75,,2015,2016.0,,,
+SoilFood,Finland,"Barley,Oats","Wheat,Rye",2.47,Soil Amendment,,,0.05,1.00%,98.00%,€1.60,€2.21,,,,"In addition to soil carbon sequestration, the use of Soil Improvement Fibres reduces greenhouse gas emissions from agriculture. Soil Improvement Fibre's emission factor for N2O, the most significant greenhouse gas from agriculture, is estimated to be 50 times lower than for chemical fertilizer**",https://registry.puro.earth/carbon-sequestration/projects/Soil-amendment/Soilfood-1-Finland/643002406801000336
+NetZero,Brazil,Coffee,,25,Biochar,,,480,25.00%,,,,2023,,,,"https://www.nature.com/articles/s41598-019-47647-x#Abs1
+Puro
+"
+PyCoral,Australia,corn,tomato,2.47,Biochar,,,2.9,0.03%,94.00%,$69,€100.00,,,,"cost in one tonne of biochar
+assuming one tonne biochar in one hectare of land 
+is applied for hortilculture crops","chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0008/447857/DPI-BioChar-in-Horticulture.pdf
+https://registry.puro.earth/carbon-sequestration/projects/Biochar/Pyrocal---Wellcamp/643002406801000435
+"
+CarbonCycle,Germany,corn,winter wheat,2.47,Biochar,By capturing waste forest biomass of low economic value from sustainably managed forests and stabilizing the carbon through pyrolysis,,2.86,34.00%,25.00%,,,2013,,,assumed that in nothern germany the biochar is supplied by the same company,https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/ejss.13088
+Nordgau,"Wernberg-Köblitz, Germany",corn,"Potato,wheat",1,Biochar,,,8.4,10.10%,87.00%,,€560.00,,,,"https://pacificbiochar.com/biochar-application-calculator/
+https://biochar-international.org/
+Can be used for calculating amount of biochar for farming in a particular region
+
+Assumed per acre of land required 3 tonne of biochar",
+Sylva Fertilis,France,corn,wheat,1,Biochar,,,8.4,9.00%,82.00%,"€2,100.00","€2,688.00",2021,,,,
+OBIO Rudshøgda,Norway,Potato,Winter rye,0.00815448,Biochar,Cover Crop,,0.02,9.00%,81.96%,NOK 36045 ,"€4,806.00",,,,"cost inper acre, Project value per acre
+carbon credits are in that given area","https://tandfonline.com/doi/epdf/10.1080/09064710.2023.2165963?needAccess=true
+Puro
+"
+Fortaleza Ituxi III ALM,"Lábrea,Amazonas,Brazil",pasture,acai,918.045913,Agroforestry,rotational grazing,,"2,905.00",,,,,2,,,"2905 tonnes was average annual co2 reduction made , 
+Note that this is not the net negative emission",
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,50,,,,,,2021.0,,They are using Nitrogen fixing microbes instead of nitrogen fertilizers to reduce n20 emissions,https://registry.verra.org/app/projectDetail/VCS/3598
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,500,,,,,,2022.0,,All the data is not available publicly,https://registry.verra.org/app/projectDetail/VCS/3598
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,"5,000.00",,,,,,2023.0,,,https://registry.verra.org/app/projectDetail/VCS/3598
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,"10,000.00",,,,,,2024.0,,,https://registry.verra.org/app/projectDetail/VCS/3598
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,"20,000.00",,,,,,2025.0,,,https://registry.verra.org/app/projectDetail/VCS/3598
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,"40,000.00",,,,,,2026.0,,,https://registry.verra.org/app/projectDetail/VCS/3598
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,"80,000.00",,,,,,2027.0,,,https://registry.verra.org/app/projectDetail/VCS/3598
+Pivot Bio,U.S. Corn Belt,,,,Nitrogen-fixing Microbes,,,"1,20,000.00",,,,,,2028.0,,,https://registry.verra.org/app/projectDetail/VCS/3598
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"5,000.00",,,,,01-01-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"10,000.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"60,000.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"90,000.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"1,50,000.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"2,50,000.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"4,50,000.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"6,50,000.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"8,50,000.00",,,,,01-01-2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"10,00,000.00",,,,,01-01-2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"12,50,000.00",,,,,01-01-2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"15,00,000.00",,,,,01-01-2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"20,00,000.00",,,,,01-01-2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"25,00,000.00",,,,,01-01-2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"30,00,000.00",,,,,01-01-2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"32,50,000.00",,,,,01-01-2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"35,00,000.00",,,,,01-01-2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"40,00,000.00",,,,,01-01-2040,,31-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"42,50,000.00",,,,,01-01-2041,,31-12-2041,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"45,00,000.00",,,,,01-01-2042,,31-12-2042,,https://registry.verra.org/app/projectDetail/VCS/4877
+e Carbon Smart Cropping And Pasture Systems USA ," West Coast,US",,,15000,organic amendments ,cover crops, pasture improvement,"47,50,000.00",,,,,01-01-2043,,31-12-2043,,https://registry.verra.org/app/projectDetail/VCS/4877
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"5,000.00",,,,,01-01-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"10,000.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"60,000.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"90,000.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"1,50,000.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"2,50,000.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"4,50,000.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"6,50,000.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"8,50,000.00",,,,,01-01-2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"10,00,000.00",,,,,01-01-2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"12,50,000.00",,,,,01-01-2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"15,00,000.00",,,,,01-01-2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"20,00,000.00",,,,,01-01-2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"25,00,000.00",,,,,01-01-2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"30,00,000.00",,,,,01-01-2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"32,50,000.00",,,,,01-01-2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"35,00,000.00",,,,,01-01-2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"40,00,000.00",,,,,01-01-2040,,31-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"42,50,000.00",,,,,01-01-2041,,31-12-2041,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"45,00,000.00",,,,,01-01-2042,,31-12-2042,,https://registry.verra.org/app/projectDetail/VCS/4842
+Carbon Smart Orchards," West Coast,US",Blueberries,fruit trees and nut trees.,1802.464,organic materials s and mulch, cover cropping and inter-row biomass generation,permanent tree crops,"47,50,000.00",,,,,01-01-2043,,31-12-2043,,https://registry.verra.org/app/projectDetail/VCS/4842
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"75,455.00",,,,,2021,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"9,43,198.00",,,,,2022,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"18,86,397.00",,,,,2023,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"37,72,794.00",,,,,2024,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2025,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2026,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2027,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2028,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2029,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2030,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2031,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2032,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2033,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2034,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2035,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2036,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2037,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2038,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2039,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Pvt Ltd ,"Maharashtra,Gujrat","Rice, Cotton, Maize, Sugarcane, Soybean ",Wheat,"98,822",fertilizer management,cover cropping,zero tillage,"56,59,192.00",,,,,2040,,,,https://registry.verra.org/app/projectDetail/VCS/4574
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"1,79,520.00",,,,,15-10-2020,,14-10-2021,The crops info is taken from search,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"4,76,713.00",,,,,15-10-2021,,14-10-2022,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"12,98,962.00",,,,,15-10-2022,,14-10-2023,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"21,76,189.00",,,,,15-10-2023,,14-10-2024,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"39,37,628.00",,,,,15-10-2024,,14-10-2025,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2025,,14-10-2026,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2026,,14-10-2027,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2027,,14-10-2028,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2028,,14-10-2029,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2029,,14-10-2030,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2030,,14-10-2031,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2031,,14-10-2032,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2032,,14-10-2033,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2033,,14-10-2034,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2034,,14-10-2035,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2035,,14-10-2036,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2036,,14-10-2037,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2037,,14-10-2038,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2038,,14-10-2039,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd," Andhra Pradesh, Chhattisgarh, Karnataka, Orrisa, and Telangana"," Rice, maize","Wheat, barley","98,84,200",Reduce tillage,Crop residue management ,Improved fertilizer management ,"65,63,488.00",,,,,15-10-2039,,14-10-2040,,https://registry.verra.org/app/projectDetail/VCS/4767
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh",,,"98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"1,31,293.00",,,,,15-10-2020,,14-10-2021,"In addition to above three methods are these three methodologies.
+The company is applying 6 methods",https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"2,62,586.00",,,,,15-10-2021,,14-10-2022,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"9,80,665.00",,,,,15-10-2022,,14-10-2023,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"17,95,198.00",,,,,15-10-2023,,14-10-2024,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"45,54,930.00",,,,,15-10-2024,,14-10-2025,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2025,,14-10-2026,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2026,,14-10-2027,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2027,,14-10-2028,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2028,,14-10-2029,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2029,,14-10-2030,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2030,,14-10-2031,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2031,,14-10-2032,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2032,,14-10-2033,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2033,,14-10-2034,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2034,,14-10-2035,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2035,,14-10-2036,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2036,,14-10-2037,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2037,,14-10-2038,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2038,,14-10-2039,,https://registry.verra.org/app/projectDetail/VCS/4768
+Grow Indigo Private Ltd,"Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh","Rice (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains)
+Maize (Upper Gangetic Plains, Central Plateau and Hills, Western Dry Region)
+Sugarcane (Upper Gangetic Plains)
+Millet (Lower Gangetic Plains)
+Jowar (Western Dry Region)
+Bajra (Western Dry Region)","Wheat (Upper Gangetic Plains, Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Pulses (Middle Gangetic Plains, Lower Gangetic Plains, Central Plateau and Hills)
+Barley (not explicitly mentioned, but barley is a rabi crop commonly grown in such regions)","98,84,200",Improve crop establishment and water/ irrigation managemen,Cover cropping/ Crop rotation,Agroforestry ,"62,16,255.00",,,,,15-10-2039,,14-10-2040,,https://registry.verra.org/app/projectDetail/VCS/4768
+Project Terre Boost,"Assam, Nagaland, Rajasthan, Maharashtra, Madhya Pradesh, Chhattisgarh, Jharkhand",,,,Biochar,,,"1,16,961.00",,,,,2024,,,"75000 tonnes of biochar produced annually
+assuming 87% varbon content gives 
+2,39,250 tonnes of CO2 and emission reduction 
+as  
+116961/2,39,250=48%",https://registry.verra.org/app/projectDetail/VCS/4812
+Project Terre Boost,"Assam, Nagaland, Rajasthan, Maharashtra, Madhya Pradesh, Chhattisgarh, Jharkhand",,,,Biochar,,,"1,16,961.00",,,,,2025,,,,https://registry.verra.org/app/projectDetail/VCS/4812
+Project Terre Boost,"Assam, Nagaland, Rajasthan, Maharashtra, Madhya Pradesh, Chhattisgarh, Jharkhand",,,,Biochar,,,"1,16,961.00",,,,,2026,,,,https://registry.verra.org/app/projectDetail/VCS/4812
+Project Terre Boost,"Assam, Nagaland, Rajasthan, Maharashtra, Madhya Pradesh, Chhattisgarh, Jharkhand",,,,Biochar,,,"1,16,961.00",,,,,2027,,,,https://registry.verra.org/app/projectDetail/VCS/4812
+Project Terre Boost,"Assam, Nagaland, Rajasthan, Maharashtra, Madhya Pradesh, Chhattisgarh, Jharkhand",,,,Biochar,,,"1,16,961.00",,,,,2028,,,,https://registry.verra.org/app/projectDetail/VCS/4812
+Project Terre Boost,"Assam, Nagaland, Rajasthan, Maharashtra, Madhya Pradesh, Chhattisgarh, Jharkhand",,,,Biochar,,,"1,16,961.00",,,,,2029,,,,https://registry.verra.org/app/projectDetail/VCS/4812
+Project Terre Boost,"Assam, Nagaland, Rajasthan, Maharashtra, Madhya Pradesh, Chhattisgarh, Jharkhand",,,,Biochar,,,"1,16,961.00",,,,,2030,,,,https://registry.verra.org/app/projectDetail/VCS/4812
+Varaha ClimateAg,"Gujrat, India",Cotton,Wheat,"61,776.25",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","1,21,697.00",,,,,2020,,2021,"Initially the land area was 25 thousand hectares, which will be stabilized at 312,000 hectares in 2029 and maintained until 2040.",https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India",Cotton,Wheat,"1,50,459.54",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","1,21,697.00",,,,,2021,,2022,So I assumed area increase uniformly,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India",Cotton,Wheat,"2,39,142.83",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","1,21,697.00",,,,,2022,,2023,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India",Cotton,Wheat,"3,27,826.12",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","1,21,697.00",,,,,2023,,2024,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"4,16,509.41",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","1,93,974.00",,,,,2024,,2025,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"5,05,192.70",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","4,49,920.00",,,,,2025,,2026,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"5,93,875.99",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","7,05,594.00",,,,,2026,,2027,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"6,82,559.28",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","9,88,524.00",,,,,2027,,2028,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","12,78,743.00",,,,,2028,,2029,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2029,,2030,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2030,,2031,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2031,,2032,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2032,,2033,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2033,,2034,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2034,,2035,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2035,,2036,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2036,,2037,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2037,,2038,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2038,,2039,,https://registry.verra.org/app/projectDetail/VCS/4458
+Varaha ClimateAg,"Gujrat, India","Cotton,Sugarcane,Rice,Maize,Legumes",Wheat,"7,71,242.56",Fertilizer Management/Organic amendment,Zero/reduced tillage,"Direct Seeding Rice, Green gram, black gram, sesame, soybean, sunflower, maize, and groundnut are intercrops crops","15,30,488.00",,,,,2039,,2040,,https://registry.verra.org/app/projectDetail/VCS/4458
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Corn,Wheat,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"8,928.00",,,,,01-07-2021,,30-06-2022,"The list of crops grwn in that region was given, I just spreded them accross the records",https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Sunflower,Field Beans,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"23,264.00",,,,,01-07-2022,,30-06-2023,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Soybean,Barley,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"75,168.00",,,,,01-07-2023,,30-06-2024,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Red Clover,Sugar Beet,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"1,52,352.00",,,,,01-07-2024,,30-06-2025,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Berseem Clover,Pea,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"2,64,192.00",,,,,01-07-2025,,30-06-2026,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Persian Clover,Colza,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"3,91,008.00",,,,,01-07-2026,,30-06-2027,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Alsike Clover,Rapeseed,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"5,13,600.00",,,,,01-07-2027,,30-06-2028,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",White Clover,Phacelia,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"6,36,480.00",,,,,01-07-2028,,30-06-2029,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Crimson Clover,Oats,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"7,89,120.00",,,,,01-07-2029,,30-06-2030,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Lucerne,Rye,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"9,53,920.00",,,,,01-07-2030,,30-06-2031,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Hybrid Lucerne,Triticale,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"10,62,400.00",,,,,01-07-2031,,30-06-2032,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Squarrose Clover,Black Oats,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2032,,30-06-2033,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Melilot,Buckwheat,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2033,,30-06-2034,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Lupins,Linseed,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2034,,30-06-2035,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Fodder Radish,Niger,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2035,,30-06-2036,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Tillage Radish,Potato,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2036,,30-06-2037,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Sunn Hemp,Pea,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2037,,30-06-2038,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Corn,Wheat,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2038,,30-06-2039,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Sunflower,Field Beans,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2039,,30-06-2040,,https://registry.verra.org/app/projectDetail/VCS/4835
+e eAgronomSustainableFarming,"inCentralandEasternEuropeinPoland, Estonia, Latvia, Lithuania,CzechRepublicandRomania",Soybean,Barley,"85,76,493.50",Covercropping,"Reducedtillage,striptillageandnotillage",Newand improvedcropresidue management,"11,10,400.00",,,,,01-07-2040,,30-06-2041,,https://registry.verra.org/app/projectDetail/VCS/4835
+Project Reignite: Turning Farm Waste to Climate Action,"Odisha, India",Rice ,Mustard,,Biochar,,,"23,366.00",,,,,2023 (16th October- 31st December),,,Searched the crops grown in odisha,
+Project Reignite: Turning Farm Waste to Climate Action,"Odisha, India",Rice ,Mustard,,Biochar,,,"1,10,760.00",,,,,2024,,,,
+Project Reignite: Turning Farm Waste to Climate Action,"Odisha, India",Rice ,Mustard,,Biochar,,,"1,10,760.00",,,,,2025,,,,
+Project Reignite: Turning Farm Waste to Climate Action,"Odisha, India",Rice ,Mustard,,Biochar,,,"1,10,760.00",,,,,2026,,,,
+Project Reignite: Turning Farm Waste to Climate Action,"Odisha, India",Rice ,Mustard,,Biochar,,,"1,10,760.00",,,,,2027,,,,
+Project Reignite: Turning Farm Waste to Climate Action,"Odisha, India",Rice ,Mustard,,Biochar,,,"1,10,760.00",,,,,2028,,,,
+Project Reignite: Turning Farm Waste to Climate Action,"Odisha, India",Rice ,Mustard,,Biochar,,,"1,10,760.00",,,,,2029,,,,
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"2,784.82",,,,,06-12-2022,,06-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2023,,06-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2024,,06-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2025,,06-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2026,,06-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2027,,06-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2028,,06-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2029,,06-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2030,,06-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2031,,06-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2032,,06-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2033,,06-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2034,,06-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2035,,06-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2036,,06-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2037,,06-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2038,,06-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2039,,06-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2040,,06-12-2041,,https://registry.verra.org/app/projectDetail/VCS/4855
+Vista Energy ,"Buenos Aires, Argentina","Corn,Soyabean",Wheat,"3,35,37,184.53",Crop rotations ,Rotations between agricultural and livestock practices, Cover crops ,"5,569.64",,,,,06-12-2041,,05-12-2042,,https://registry.verra.org/app/projectDetail/VCS/4855
+Regenerative Agriculture and Forestry Technologies,,Maize,,"1,23,552.50",Conservation Agriculture ,Legume Intercropping and Alley Cropping ,Farmer Managed Natural Regeneration (FMNR)  ,"1,32,290.00",,,,,24-06-2021,,,,https://registry.verra.org/app/projectDetail/VCS/4789
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,55,891.00",,,,,24-06-2021,,31-12-2021,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"3,20,548.00",,,,,01-01-2022,,31-12-2022,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"2,33,242.00",,,,,01-01-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"2,01,480.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,75,770.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,71,807.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,61,680.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,59,234.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,49,487.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,31,291.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,25,042.00",,,,,01-01-2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"1,07,019.00",,,,,01-01-2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"94,974.00",,,,,01-01-2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"82,710.00",,,,,01-01-2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"70,777.00",,,,,01-01-2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"67,738.00",,,,,01-01-2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"59,782.00",,,,,01-01-2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"63,602.00",,,,,01-01-2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"57,136.00",,,,,01-01-2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"62,479.00",,,,,01-01-2040,,31-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4837
+SHANDONGDONGYINGALMPROJECT,"Kenli District, DongyingCity, China",SummerCorn,Winterwheat,"67,532.02",Improvefertilizer(organicor inorganic)application,Reducetillage/improve residuemanagement,,"-5,880.00",,,,,01-01-2041,,23-06-2041,,https://registry.verra.org/app/projectDetail/VCS/4837
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,206.4,,,,,30-07-2021,,31-12-2021,"The baseline crops were wheat, corn But in Project scenerio Plantations were implementated",https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,174.4,,,,,2022,,31-12-2022,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,195.6,,,,,2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,259.4,,,,,2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,321.5,,,,,2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,342.7,,,,,2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,655,,,,,2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,284.4,,,,,2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,167.7,,,,,2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2040,,31-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2041,,31-12-2041,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2042,,31-12-2042,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2043,,31-12-2043,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2044,,31-12-2044,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2045,,31-12-2045,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2046,,31-12-2046,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2047,,31-12-2047,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2048,,31-12-2048,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2049,,31-12-2049,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,2050,,31-12-2050,,https://registry.verra.org/app/projectDetail/VCS/4787
+Rivulis Pte. Ltd.,HaYogev Moshav in northern Israel,Nuts,Olive trees,69.1926,No tillage. ,Reduced use of inorganic fertilizers,Intercropping with AlfaAlfa,128.8,,,,,01-01-2051,,29-07-2051,,https://registry.verra.org/app/projectDetail/VCS/4787
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"11,484.00",,,,,01-01-2021,,31-12-2021,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"11,484.00",,,,,01-01-2022,,31-12-2022,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"14,834.00",,,,,01-01-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"15,808.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"23,429.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"36,369.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"58,221.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"79,115.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"1,06,943.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"1,52,847.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"1,98,750.00",,,,,01-01-2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"2,44,653.00",,,,,01-01-2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"2,90,556.00",,,,,01-01-2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"3,36,387.00",,,,,01-01-2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"4,04,811.00",,,,,01-01-2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"4,73,235.00",,,,,01-01-2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"5,41,659.00",,,,,01-01-2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"6,10,067.00",,,,,01-01-2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"6,83,189.00",,,,,01-01-2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4777
+Agropecuaria Bambusa SAS," Orinoquia,Colombia",,,"3,70,657.50",Cease grassland burns. ,Reduce fertilizer (organic or inorganic) application;,Reduce tillage/improve residue management,"6,85,821.00",,,,,01-01-2040,,31-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4777
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"24,430.00",,,,,01-10-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"97,718.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"3,07,846.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"5,73,856.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"7,24,966.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"9,19,182.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"7,69,660.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"6,32,904.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"4,02,449.00",,,,,01-01-2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"2,77,185.00",,,,,01-01-2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"1,97,223.00",,,,,01-01-2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"1,41,778.00",,,,,01-01-2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"1,01,253.00",,,,,01-01-2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"70,507.00",,,,,01-01-2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"47,176.00",,,,,01-01-2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"29,896.00",,,,,01-01-2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"18,077.00",,,,,01-01-2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"10,526.00",,,,,01-01-2040,,31-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"6,375.00",,,,,01-01-2041,,31-12-2041,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"4,312.00",,,,,01-01-2042,,31-12-2042,,https://registry.verra.org/app/projectDetail/VCS/4746
+ carbono rural Paraguayan Chaco , Occidental Paraguay,,,"6,17,763",Sustainable grazing planning  ,,,"3,234.00",,,,,01-01-2043,,30-09-2043,,https://registry.verra.org/app/projectDetail/VCS/4746
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"3,46,852.00",,,,,01-05-2021,,31-12-2021,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"5,15,846.00",,,,,01-01-2022,,31-12-2022,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"3,50,372.00",,,,,01-01-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"2,08,598.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,48,470.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,12,493.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,05,752.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,12,841.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,12,321.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"88,614.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"90,329.00",,,,,01-01-2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,11,951.00",,,,,01-01-2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,13,379.00",,,,,01-01-2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,20,268.00",,,,,01-01-2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,24,101.00",,,,,01-01-2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,27,794.00",,,,,01-01-2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,13,364.00",,,,,01-01-2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,08,269.00",,,,,01-01-2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,14,281.00",,,,,01-01-2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"1,14,823.00",,,,,01-01-2040,,31-12-2040,,https://registry.verra.org/app/projectDetail/VCS/4760
+HEBEI WEI COUNTY IMPROVED AGRICULTURAL LAND MANAGEMENT PROJECT ,"Wei County, Handan City, Hebei Province of China",Corn,wheat,"1,15,323.20",Improve fertilizer (organic or inorganic) application,Reduce tillage/improve residue management,,"32,030.00",,,,,01-01-2041,,30-04-2041,,https://registry.verra.org/app/projectDetail/VCS/4760
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"1,37,845.00",,,,,26-05-2021,,31-12-2021,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2022,,31-12-2022,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"2,28,698.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4753
+FANGCHENG IMPROVED CROPLAND MANAGEMENT PROJECTE  ,"Fangcheng County, Nanyang City, Henan province, China",corn,wheat,"1,35,558.60", Reduced tillage,Improve fertilizer (organic or inorganic) management (Reduce the application of inorganic fertilizers and start the application of organic fertilizers), Improve residue management (Returning straw to the field),"90,853.00",,,,,01-01-2031,,25-05-2031,,https://registry.verra.org/app/projectDetail/VCS/4753
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"20,490.00",,,,,01-10-2020,,31-12-2020,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"81,959.00",,,,,01-01-2021,,31-12-2021,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"81,959.00",,,,,01-01-2022,,31-12-2022,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"81,959.00",,,,,01-01-2023,,31-12-2023,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2024,,31-12-2024,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2025,,31-12-2025,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2026,,31-12-2026,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2027,,31-12-2027,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2028,,31-12-2028,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2029,,31-12-2029,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2030,,31-12-2030,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2031,,31-12-2031,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2032,,31-12-2032,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2033,,31-12-2033,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2034,,31-12-2034,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2035,,31-12-2035,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2036,,31-12-2036,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2037,,31-12-2037,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2038,,31-12-2038,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"6,07,746.00",,,,,01-01-2039,,31-12-2039,,https://registry.verra.org/app/projectDetail/VCS/4742
+RESILIENT TARANGIRE ECOSYSTEM PROJECT ,Longido districts located in Northern Tanzania,,,"20,50,715.50",improved grazing management,,,"4,55,810.00",,,,,01-01-2040,,30-09-2040,,https://registry.verra.org/app/projectDetail/VCS/4742

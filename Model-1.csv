@@ -1,0 +1,473 @@
+Location,Kharif,Rabi,Acres,Type,Method1,Method2,Method3,Credits
+ Andhra Pradesh,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"89,760.00"
+ Andhra Pradesh,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"6,49,481.00"
+ Andhra Pradesh,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+ Andhra Pradesh,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+ Andhra Pradesh,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+ Andhra Pradesh,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+ Andhra Pradesh,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+ Andhra Pradesh,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"10,941.08"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"10,941.08"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Bihar,Millet,Wheat,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Chhattisgarh,Rice,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"89,760.00"
+Chhattisgarh,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"10,88,094.50"
+Chhattisgarh,Rice ,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Chhattisgarh,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Chhattisgarh,Rice ,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Chhattisgarh,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Chhattisgarh,Rice ,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Chhattisgarh,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Gujrat,Cotton,Wheat,"20,592.08",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Maize ,Wheat,"20,592.08",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Rice ,Wheat,"20,592.08",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Cotton,Wheat,"50,153.18",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Maize ,Wheat,"50,153.18",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Rice ,Wheat,"50,153.18",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Cotton,Wheat,"79,714.28",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Maize ,Wheat,"79,714.28",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Rice ,Wheat,"79,714.28",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Cotton,Wheat,"1,09,275.37",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Maize ,Wheat,"1,09,275.37",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Rice ,Wheat,"1,09,275.37",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"40,565.67"
+Gujrat,Cotton,Wheat,"83,301.88",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"38,794.80"
+Gujrat,Sugarcane,Wheat,"83,301.88",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"38,794.80"
+Gujrat,Rice,Wheat,"83,301.88",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"38,794.80"
+Gujrat,Maize,Wheat,"83,301.88",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"38,794.80"
+Gujrat,Legumes,Wheat,"83,301.88",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"38,794.80"
+Gujrat,Cotton,Wheat,"1,01,038.50",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"89,984.00"
+Gujrat,Sugarcane,Wheat,"1,01,038.50",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"89,984.00"
+Gujrat,Rice,Wheat,"1,01,038.50",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"89,984.00"
+Gujrat,Maize,Wheat,"1,01,038.50",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"89,984.00"
+Gujrat,Legumes,Wheat,"1,01,038.50",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"89,984.00"
+Gujrat,Cotton,Wheat,"1,18,775.20",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,41,118.80"
+Gujrat,Sugarcane,Wheat,"1,18,775.20",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,41,118.80"
+Gujrat,Rice,Wheat,"1,18,775.20",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,41,118.80"
+Gujrat,Maize,Wheat,"1,18,775.20",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,41,118.80"
+Gujrat,Legumes,Wheat,"1,18,775.20",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,41,118.80"
+Gujrat,Cotton,Wheat,"1,36,511.90",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,97,704.80"
+Gujrat,Sugarcane,Wheat,"1,36,511.90",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,97,704.80"
+Gujrat,Rice,Wheat,"1,36,511.90",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,97,704.80"
+Gujrat,Maize,Wheat,"1,36,511.90",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,97,704.80"
+Gujrat,Legumes,Wheat,"1,36,511.90",Vertisols,Fertilizer Management,Reduced Tillage,Intercropping,"1,97,704.80"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"2,55,748.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"2,55,748.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"2,55,748.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"2,55,748.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"2,55,748.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Cotton,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Sugarcane,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Rice,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Maize,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Gujrat,Legumes,Wheat,"1,54,248.50",Vertisols,Fertilizer Management,Reduced Tillage,Residue Management,"3,06,097.60"
+Karnataka,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"2,38,356.50"
+Karnataka,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"10,88,094.50"
+Karnataka,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Karnataka,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Karnataka,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Karnataka,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Karnataka,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Karnataka,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"10,941.08"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"10,941.08"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Maize,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Madhya Pradesh,Pulses,Wheat,"8,23,683.33",Vertisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Orrisa,Rice ,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"2,38,356.50"
+Orrisa,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"19,68,814.00"
+Orrisa,Rice ,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Orrisa,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Orrisa,Rice ,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Orrisa,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Orrisa,Rice ,Green Manure Crop,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Orrisa,Rice ,Wheat,"49,42,100.00",Lixisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"10,941.08"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"10,941.08"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"10,941.08"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"1,49,599.80"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"1,49,599.80"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Bajra,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Jowar,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Rajasthan,Pulses,No Crop,"8,23,683.33",Arenosols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Telangana,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"6,49,481.00"
+Telangana,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"19,68,814.00"
+Telangana,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Telangana,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Telangana,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Telangana,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Telangana,Rice ,Wheat,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Telangana,Rice ,Green Manure Crop,"49,42,100.00",Luvisols,Reduced Tillage,Irrigation Management,Fertilizer Management ,"32,81,744.00"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Cover Crop,Agroforestry ,"10,941.08"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Cover Crop,Agroforestry ,"10,941.08"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Cover Crop,Agroforestry ,"10,941.08"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Cover Crop,Agroforestry ,"10,941.08"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Cover Crop,Agroforestry ,"10,941.08"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"21,882.17"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"81,722.08"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Fertilizer Management,Residue Management,Crop Rotation,"1,49,599.80"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"3,79,577.50"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Reduced Tillage,Fertilizer Management,Irrigation Management,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Sugarcane,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Maize,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Rice,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Uttar Pradesh,Pulses,Wheat  ,"8,23,683.33",Cambisols,Irrigation Management,Reduced Tillage,Crop Rotation,"5,18,021.30"
+Gujrat,Cotton,Wheat,2000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,4894
+Gujrat,Sugercane,Wheat,2000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,4894
+Gujrat,Rice,Wheat,2000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,4894
+Gujrat,Maize,Wheat,2000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,4894
+Gujrat,Soybean,Wheat,2000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,4894
+Gujrat,Cotton,Wheat,4000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,9788
+Gujrat,Sugercane,Wheat,4000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,9788
+Gujrat,Rice,Wheat,4000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,9788
+Gujrat,Maize,Wheat,4000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,9788
+Gujrat,Soybean,Wheat,4000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,9788
+Gujrat,Cotton,Wheat,8000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,19576
+Gujrat,Sugercane,Wheat,8000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,19576
+Gujrat,Rice,Wheat,8000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,19576
+Gujrat,Maize,Wheat,8000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,19576
+Gujrat,Soybean,Wheat,8000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,19576
+Gujrat,Cotton,Wheat,100000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,244700
+Gujrat,Sugercane,Wheat,100000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,244700
+Gujrat,Rice,Wheat,100000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,244700
+Gujrat,Maize,Wheat,100000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,244700
+Gujrat,Soybean,Wheat,100000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,244700
+Gujrat,Cotton,Wheat,200000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,489400
+Gujrat,Sugercane,Wheat,200000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,489400
+Gujrat,Rice,Wheat,200000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,489400
+Gujrat,Maize,Wheat,200000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,489400
+Gujrat,Soybean,Wheat,200000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,489400
+Gujrat,Cotton,Wheat,400000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,978800
+Gujrat,Sugercane,Wheat,400000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,978800
+Gujrat,Rice,Wheat,400000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,978800
+Gujrat,Maize,Wheat,400000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,978800
+Gujrat,Soybean,Wheat,400000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,978800
+Gujrat,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Gujrat,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Rice,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Maize,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Soybean,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Cotton,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
+Maharashtra,Sugercane,Wheat,600000,Vertisols,Fertilizer Management,Cover Crop,zero tillage,1468200
